@@ -4,6 +4,7 @@ public class Test{
 
         System.out.println("hello");
         System.out.println("master changes");
-        System.out.println("dev2 second changes");        
+        System.out.println("dev2 second changes");    
+        System.out.println("dev2 third changes");    
     }
 }
